@@ -1,6 +1,6 @@
 {
-  "name": "wiki",
-  "version": "0.9.1",
+  "name": "@jurajkubelka/wiki",
+  "version": "0.9.2",
   "bin": {
     "wiki": "./index.js"
   },
@@ -59,7 +59,7 @@
     "wiki-plugin-method": "0.2",
     "wiki-plugin-pagefold": "0.2",
     "wiki-plugin-paragraph": "0.2",
-    "wiki-plugin-pharoscript": "JurajKubelka/wiki-plugin-pharoscript",
+    "wiki-plugin-pharoscript": "@jurajkubelka/wiki-plugin-pharoscript@0.2.2",
     "wiki-plugin-pushpin": "0.3",
     "wiki-plugin-radar": "0.3",
     "wiki-plugin-reduce": "0.2",
