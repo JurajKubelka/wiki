@@ -40,7 +40,7 @@
     "wiki-plugin-calendar": "0.2",
     "wiki-plugin-changes": "0.2",
     "wiki-plugin-chart": "0.3",
-    "wiki-plugin-code": "0.2",
+    "wiki-plugin-code": "JurajKubelka/wiki-plugin-code",
     "wiki-plugin-data": "0.2",
     "wiki-plugin-factory": "0.2",
     "wiki-plugin-favicon": "0.2",
